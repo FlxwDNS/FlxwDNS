@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FlxwDNS
-- 👀 I’m a Professional code
+- 👀 I’m a Professional coder
 - 🌱 I’m currently learning C++
-- 📫 FlxwDNS#9137
+- 📫 @FlxwDNS on Discord
 
 - [x] Java & NodeJS & PHP & JS
 - [ ] C# & C++
