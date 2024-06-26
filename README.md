@@ -11,16 +11,16 @@
 </p>
 
 <p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=flxwdns&show_icons=false&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=FlxwDNS" alt="flxwdns" />
 <img src="https://badges.pufler.dev/years/FlxwDNS" alt="flxwdns" />
 <img src="https://badges.pufler.dev/commits/monthly/FlxwDNS" alt="flxwdns" />
 </p>
 
 <hr>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=flxwdns&show_icons=false&theme=dark" />
-</p>
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=flxwdns&theme=tokyo-night&custom_title=FlxwDNS%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
