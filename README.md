@@ -18,6 +18,10 @@
 
 <hr>
 
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=flxwdns&show_icons=false&theme=dark" />
+</p>
+
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=flxwdns&theme=tokyo-night&custom_title=FlxwDNS%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ```java
@@ -41,11 +45,4 @@ Activity:
 🌆 Daytime                        █████████░░░░░░░░░░░░░░░░   21.00 % 
 🌃 Evening                        ████████████░░░░░░░░░░░░░   30.00 % 
 🌙 Night (Don't drink coffe)      █████████████████░░░░░░░░   43.00 % 
-```
-
-```text
-🕑︎ Time Zone: Berlin/Europe
-
-💬 Programming Languages: 
-NodeJS, Kotlin, Java, C++
 ```
