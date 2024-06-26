@@ -6,6 +6,12 @@
   <img alig src="https://github-profile-trophy.vercel.app/?username=flxwdns&theme=onedark&column=-1" />
 </p>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=FlxwDNS" alt="flxwdns" />
+<img src="https://badges.pufler.dev/years/FlxwDNS" alt="flxwdns" />
+<img src="https://badges.pufler.dev/commits/monthly/FlxwDNS" alt="flxwdns" />
+</p>
+
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=flxwdns&theme=tokyo-night&custom_title=FlxwDNS%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ```java
@@ -35,9 +41,5 @@ Activity:
 🕑︎ Time Zone: Berlin/Europe
 
 💬 Programming Languages: 
-C++                                   ████████░░░░░░░░░░░░░░░░░   32.44 % 
-NodeJS                                █████░░░░░░░░░░░░░░░░░░░░   21.00 % 
-Kotlin                                ████████████░░░░░░░░░░░░░   46.00 % 
-Java                                  ███████████████████████░░   98.00 % 
-C++                                   █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+NodeJS, Kotlin, Java, C++
 ```
