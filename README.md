@@ -1,10 +1,4 @@
-<p align="center">
-<img src="https://socialify.git.ci/FlxwDNS/FlxwDNS/image?description=1&descriptionEditable=Software%20Developer&font=Source%20Code%20Pro&language=1&name=1&pattern=Circuit%20Board&theme=Dark" alt="FlxwDNS" width="900" height="300" />
-</p>
-
-<hr>
-
-# Activity
+<h1 align="center">FlxwDNS</h1>
 
 <p align="center">
   <img src="https://lanyard.cnrad.dev/api/769860621981319188" alt="flxwdns" />
