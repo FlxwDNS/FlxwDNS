@@ -2,8 +2,6 @@
 I enjoy developing programs as a way to improve my skills<br>
 and I also make some of them available to others via github.
 
-<img align='right' src="https://avatars.githubusercontent.com/u/57632174" width="230">
-
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=FlxwDNS" alt="flxwdns" />
 <img src="https://badges.pufler.dev/years/FlxwDNS" alt="flxwdns" />
